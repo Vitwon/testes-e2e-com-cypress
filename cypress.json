@@ -1,12 +1,12 @@
 {
-    "baseUrl":"https://notes-serverless-app.com",
-    "defaultCommandTimeout":15000,
-    "browser":"Chrome",
-    "experimentalSessionSupport":true,
-    "experimentalStudio": true,
-    "chromeWebSecurity": false,
-    "env": {
-        "viewportWidthBreakpoint": 768
-      },
-    "projectID": "exi1ka" 
+  "baseUrl": "https://notes-serverless-app.com",
+  "defaultCommandTimeout": 15000,
+  "browser": "Chrome",
+  "experimentalSessionSupport": true,
+  "experimentalStudio": true,
+  "chromeWebSecurity": false,
+  "env": {
+    "viewportWidthBreakpoint": 768
+  },
+  "projectId": "65cqvh"
 }
