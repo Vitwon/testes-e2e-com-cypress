@@ -17,7 +17,6 @@ jobs:
       run: npm run lint
   cypress-tests-desktop:
     needs: eslint
-    cypress-run:
     runs-on: ubuntu-latest
     container: cypress/browsers:node12.18.3-chrome87-ff82
     steps:
@@ -36,7 +35,6 @@ jobs:
           command: npm test
   cypress-tests-tablet:
     needs: eslint
-    cypress-run:
     runs-on: ubuntu-latest
     container: cypress/browsers:node12.18.3-chrome87-ff82
     steps:
