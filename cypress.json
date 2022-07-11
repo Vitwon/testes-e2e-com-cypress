@@ -7,5 +7,6 @@
     "chromeWebSecurity": false,
     "env": {
         "viewportWidthBreakpoint": 768
-      }
+      },
+    "projectID": "exi1ka" 
 }
