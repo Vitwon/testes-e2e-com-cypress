@@ -1,6 +1,6 @@
 describe('CRUD is test', ()=>{
 
-  it('CRUDs a note', () => {
+  it('CRUDs a notes', () => {
     const faker = require('faker')
     const noteDescription = faker.lorem.words(4)
 
